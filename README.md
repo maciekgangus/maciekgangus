@@ -1,4 +1,7 @@
 ### Hi there 👋
+- I'm Maciek from Poland
+- I'm 19 years old and i do creating content in Java but also I'm really keen on frontend lately on.
+
 
 <!--
 **maciekgangus/maciekgangus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
