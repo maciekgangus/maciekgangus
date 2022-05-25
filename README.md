@@ -4,13 +4,12 @@
 - 😄 I'm  from Poland I'm 19 years old and i do enjoy creating content in Java but also I'm really keen on frontend lately on
 - ⚡ I'm not only into programming but I'm also interested in politics and global economy
 - 🔭 Currently I'm studying and I'm looking for a job for begginer to gain some experience
-### Skills and experience: 
-* 💻:<div>
+### Skills: 
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 
