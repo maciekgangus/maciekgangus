@@ -1,10 +1,13 @@
 
-# Maciek from Poland
+# Maciek 
 
-- I'm  from Poland I'm 19 years old and i do enjoy creating content in Java but also I'm really keen on frontend lately on
-- I'm not only into programming but I'm also interested in politics and global economy
+- 😄 I'm  from Poland I'm 19 years old and i do enjoy creating content in Java but also I'm really keen on frontend lately on
+- ⚡ I'm not only into programming but I'm also interested in politics and global economy
+- 🔭 Currently I'm studying and I'm looking for a job for begginer to gain some experience
 ### Skills and experience: 
 * 💻: Java, HTML, CSS, JS </br>
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/maciekgangus)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/maciej.lesniak.16)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/lesniak_maciek/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/maciek_gangus)  
 <!--
