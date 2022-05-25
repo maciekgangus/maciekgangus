@@ -1,9 +1,9 @@
-### Hi there 👋,
-##Maciek from Poland
+# Hi there 👋
+## Maciek from Poland
 
 - I'm 19 years old and i do creating content in Java but also I'm really keen on frontend lately on
 - I'm not only into programming but I'm also interested in politics and global economy
-# SKILLS: JAVA/HTML/CSS/JS
+### SKILLS: JAVA/HTML/CSS/JS
 
 
 <!--
