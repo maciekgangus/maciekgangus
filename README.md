@@ -1,7 +1,7 @@
 
 # Welcome to My GitHub Profile! 👋
 
-Hi, I'm [Your Name] – a **Full-Stack Developer** and **Data Science Enthusiast** currently studying **Applied Computer Science** at **AGH University of Science and Technology in Kraków**. I specialize in backend development and have a strong passion for machine learning. I’m currently expanding my skills in **Python**, **ML** frameworks like **PyTorch** and **Scikit-learn**, and excited to start my journey as a developer in the tech industry! 🚀
+Hi, I'm Maciek – a **Full-Stack Developer** and **Data Science Enthusiast** currently studying **Applied Computer Science** at **AGH University of Science and Technology in Kraków**. I specialize in backend development and have a strong passion for machine learning. I’m currently expanding my skills in **Python**, **ML** frameworks like **PyTorch** and **Scikit-learn**, and excited to start my journey as a developer in the tech industry! 🚀
 
 ---
 
@@ -18,23 +18,7 @@ Hi, I'm [Your Name] – a **Full-Stack Developer** and **Data Science Enthusiast
 
 Here are some of the technologies and tools I use regularly:
 
-### Backend:
-- **Node.js**
-- **Express.js**
-- **Spring Boot**
 
-### Frontend:
-- **React**
-- **Next.js**
-- **Tailwind CSS**
-
-### Data Science & Machine Learning:
-- **Python**
-- **PyTorch**
-- **Scikit-learn**
-
-### Databases:
-- **SQL**
 
 ---
 
@@ -63,14 +47,6 @@ Here are some of the projects I’m currently working on:
 2. **[Project 2 Name]**: Description of the project, technologies used, and goals.
 
 You can check out all my projects on my [GitHub repositories](https://github.com/your-profile).
-
----
-
-## 📅 Upcoming Plans
-
-- 🎯 Focus on expanding my knowledge in **Machine Learning** and **AI**.
-- 💼 Seek internships or job opportunities in **Backend Development** or **Data Science**.
-- 📝 Keep contributing to open-source and collaborate with other developers.
 
 ---
 
