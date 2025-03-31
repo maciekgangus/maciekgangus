@@ -1,19 +1,80 @@
 
-# Maciek 
+# Welcome to My GitHub Profile! 👋
 
-- 😄 I'm  from Poland I'm 19 years old and i do enjoy creating content in Java but also I'm really keen on frontend lately on
-- ⚡ I'm not only into programming but I'm also interested in politics and global economy
-- 🔭 Currently I'm studying and I'm looking for a job for begginer to gain some experience
-### Skills: 
+Hi, I'm [Your Name] – a **Full-Stack Developer** and **Data Science Enthusiast** currently studying **Applied Computer Science** at **AGH University of Science and Technology in Kraków**. I specialize in backend development and have a strong passion for machine learning. I’m currently expanding my skills in **Python**, **ML** frameworks like **PyTorch** and **Scikit-learn**, and excited to start my journey as a developer in the tech industry! 🚀
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-### How to reach me:
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/maciekgangus)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/maciej.lesniak.16)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/lesniak_maciek/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/maciek_gangus) 
+## 🚀 About Me
+
+- 👨‍💻 **Full-Stack Development**: I work with technologies like **Node.js**, **Express**, **React**, **Next.js**, and **Spring Boot**.
+- 💡 **Backend Focus**: My primary interest lies in **backend development**, where I design and develop scalable and efficient systems.
+- 📊 **Data Science & ML**: Recently, I have been diving deep into **Machine Learning** with Python, exploring tools like **PyTorch** and **Scikit-learn** to build intelligent models.
+- 📚 **Teaching**: In addition to my studies, I work as a **part-time tutor** for **Mathematics** and **Informatics**, helping students understand complex concepts.
+
+---
+
+## 🛠️ Technologies & Tools
+
+Here are some of the technologies and tools I use regularly:
+
+### Backend:
+- **Node.js**
+- **Express.js**
+- **Spring Boot**
+
+### Frontend:
+- **React**
+- **Next.js**
+- **Tailwind CSS**
+
+### Data Science & Machine Learning:
+- **Python**
+- **PyTorch**
+- **Scikit-learn**
+
+### Databases:
+- **SQL**
+
+---
+
+## 📈 My Journey
+
+- 🎓 **Current Studies**: I’m pursuing **Applied Computer Science** at AGH, learning full-stack development and diving into data science.
+- 🧑‍🏫 **Teaching Experience**: I work part-time as a tutor in **Mathematics** and **Informatics**, helping students with programming and math.
+- 🚀 **Career Goals**: I’m eager to begin my professional career as a developer, bringing my backend skills and growing data science knowledge to the table.
+
+---
+
+## 🌐 Connect with Me
+
+Feel free to connect with me on:
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-profile)
+
+---
+
+## 🔧 Projects
+
+Here are some of the projects I’m currently working on:
+
+1. **[Project 1 Name]**: Description of the project, technologies used, and goals.
+2. **[Project 2 Name]**: Description of the project, technologies used, and goals.
+
+You can check out all my projects on my [GitHub repositories](https://github.com/your-profile).
+
+---
+
+## 📅 Upcoming Plans
+
+- 🎯 Focus on expanding my knowledge in **Machine Learning** and **AI**.
+- 💼 Seek internships or job opportunities in **Backend Development** or **Data Science**.
+- 📝 Keep contributing to open-source and collaborate with other developers.
+
+---
+
+Thank you for visiting my profile! 🚀
 
 
   
