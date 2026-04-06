@@ -83,16 +83,6 @@ Services exposed through **Cloudflare Tunnels**. No cloud providers — fully se
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=maciekgangus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563EB&icon_color=2563EB&text_color=c9d1d9" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maciekgangus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563EB&text_color=c9d1d9" height="160" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=maciekgangus&style=flat-square&color=2563EB" alt="Profile views" />
-
-</div>
 
 <br>
 
