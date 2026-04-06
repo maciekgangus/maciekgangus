@@ -63,23 +63,14 @@ Local AI:        Self-hosted LLM deployments on local GPU hardware
 
 ### 🏠 Home Lab
 
-```
-┌──────────────────────────────────────────────────────┐
-│                  PROXMOX VE CLUSTER                  │
-├──────────────┬──────────────────┬─────────────────────┤
-│  Raspberry   │  Dell OptiPlex   │   Dell OptiPlex     │
-│   Pi 5       │     #1           │      #2             │
-├──────────────┴──────────────────┴─────────────────────┤
-│          Kubernetes Cluster (VMs)                     │
-│  ┌─────────┐ ┌──────────┐ ┌────────────┐             │
-│  │ Apps    │ │ Services │ │ Local AI   │             │
-│  └─────────┘ └──────────┘ └────────────┘             │
-├───────────────────────────────────────────────────────┤
-│              Cloudflare Tunnels → 🌍                  │
-└───────────────────────────────────────────────────────┘
-```
+| Node | Role | Details |
+|------|------|---------|
+| Dell OptiPlex #1 | Proxmox VE | K8s control plane + worker VMs |
+| Dell OptiPlex #2 | Proxmox VE | K8s worker VMs |
+| Raspberry Pi 5 | NFS Storage | Shared persistent volumes for the cluster |
 
-No cloud providers. Fully self-managed. Always running.
+All nodes on a single switch at home. Remote access via **Tailscale VPN**.
+Services exposed through **Cloudflare Tunnels**. No cloud providers — fully self-managed.
 
 ---
 
