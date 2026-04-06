@@ -1,66 +1,110 @@
+<div align="center">
 
-# Welcome to My GitHub Profile! 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=Hey%2C+I'm+Maciek+%F0%9F%91%8B;DevOps+Engineer+%7C+Infrastructure+Nerd" alt="Typing SVG" /></a>
 
-Hi, I'm Maciek – a **Full-Stack Developer** and **Data Science Enthusiast** currently studying **Applied Computer Science** at **AGH University of Science and Technology in Kraków**. I specialize in backend development and have a strong passion for machine learning. I’m currently expanding my skills in **Python**, **ML** frameworks like **PyTorch** and **Scikit-learn**, and excited to start my journey as a developer in the tech industry! 
+**Junior DevOps Engineer @ Nokia · M.Sc. student @ AGH Kraków**
 
----
-
-## 🚀 About Me
-
-- **Full-Stack Development**: I work with technologies like **Node.js**, **Express**, **React**, **Next.js**, and **Spring Boot**.
-- **Backend Focus**: My primary interest lies in **backend development**, where I design and develop scalable and efficient systems.
-- **Data Science & ML**: Recently, I have been diving deep into **Machine Learning** with Python, exploring tools like **PyTorch** and **Scikit-learn** to build intelligent models.
-- **Teaching**: In addition to my studies, I work as a **part-time tutor** for **Mathematics** and **Informatics**, helping students understand complex concepts.
+I build and manage infrastructure — Kubernetes clusters, CI/CD pipelines, bare-metal servers,<br>and everything in between. Terminal enthusiast running Neovim + tmux as my daily driver.
 
 ---
 
-## 🛠️ Technologies & Tools
+</div>
 
-Here are some of the technologies and tools I use regularly:
+### ⚙️ What I Do
 
-
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B-F34B7D?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+```yaml
+Infrastructure:  3-node bare-metal Proxmox cluster → K8s on VMs → Cloudflare Tunnels
+CI/CD:           Jenkins pipelines, declarative workflows, containerized builds
+Linux:           Fedora daily driver, sysadmin, networking, storage
+Automation:      If it can be scripted, it will be scripted
+Local AI:        Self-hosted LLM deployments on local GPU hardware
+```
 
 ---
 
-## 📈 My Journey
+### 🛠️ Tech Stack
 
-- 🎓 **Current Studies**: I’m pursuing **Applied Computer Science** at AGH, learning full-stack development and diving into data science.
-- 🧑‍🏫 **Teaching Experience**: I work part-time as a tutor in **Mathematics** and **Informatics**, helping students with programming and math.
-- 🚀 **Career Goals**: I’m eager to begin my professional career as a developer.
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,linux,bash,python,cpp,git,nginx,vim,github,postgres&perline=6&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
+
+</div>
 
 ---
 
+### 📜 Certifications
 
-Thank you for visiting my profile! 🚀
+| Status | Certification | Issuer |
+|:------:|---------------|--------|
+| ✅ | **CKAD** — Certified Kubernetes Application Developer | CNCF · 2026 |
+| 📖 | **CKA** — Certified Kubernetes Administrator | CNCF · in progress |
+| 📖 | **AWS Solutions Architect Associate** | AWS · in progress |
 
+---
 
-  
-  
-  
-  <!--
-**maciekgangus/maciekgangus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏠 Home Lab
 
-Here are some ideas to get you started:
+```
+┌──────────────────────────────────────────────────────┐
+│                  PROXMOX VE CLUSTER                  │
+├──────────────┬──────────────────┬─────────────────────┤
+│  Raspberry   │  Dell OptiPlex   │   Dell OptiPlex     │
+│   Pi 5       │     #1           │      #2             │
+├──────────────┴──────────────────┴─────────────────────┤
+│          Kubernetes Cluster (VMs)                     │
+│  ┌─────────┐ ┌──────────┐ ┌────────────┐             │
+│  │ Apps    │ │ Services │ │ Local AI   │             │
+│  └─────────┘ └──────────┘ └────────────┘             │
+├───────────────────────────────────────────────────────┤
+│              Cloudflare Tunnels → 🌍                  │
+└───────────────────────────────────────────────────────┘
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maciekgangus)](https://github.com/anuraghazra/github-readme-stats)
+No cloud providers. Fully self-managed. Always running.
+
+---
+
+### 📍 Currently
+
+- 🔧 Working on telecom infrastructure at **Nokia**
+- 🎓 Studying Applied Computer Science (M.Sc.) at **AGH**
+- 🏗️ Expanding the home lab & learning **AWS**
+- 📐 Teaching math on the side — extended exam & university level
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=maciekgangus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563EB&icon_color=2563EB&text_color=c9d1d9" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maciekgangus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563EB&text_color=c9d1d9" height="160" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=maciekgangus&style=flat-square&color=2563EB" alt="Profile views" />
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>Most of my work is infrastructure configs, internal pipelines, and bare-metal setups that don't translate well to GitHub. But the home lab is real and always running.</sub>
+</div>
